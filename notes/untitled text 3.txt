@@ -1,0 +1,14 @@
+<body>
+<div id="page">
+<header>
+<nav>
+	home
+	about
+	contact
+	resources
+<div id="content">
+<article>
+<article>
+<footer>
+	&copy; copyright 
+<aside> 
