@@ -1,0 +1,55 @@
+b {
+	padding: 15px;
+}
+
+h1, h2, h3, a {
+	font-weight: normal;
+	
+}
+
+h1 {
+	font-family: Georgia, Times, serif;
+	color: #962D3E;
+}
+
+h2 {
+	font-family: Gill Sans, Arial, sans-serif;
+	color: #348899;
+}
+
+h3 {
+	font-size: 150%;
+}
+
+p {
+	color: #000000;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+
+#intro {
+	font-weight: bold;
+}
+
+#credits {
+	font-style: italic;
+	text-align: right;
+}
+
+#container {
+	border: 2px solid #343642;
+	background-color: #F2EBC7;
+	padding: 10px;
+}
+
+a {
+	color: #979C9C;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #348899;
+	text-decoration: underline;
+}
+
+
