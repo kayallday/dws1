@@ -1,0 +1,44 @@
+body {
+	font-size: 80%;
+	font-family: Arial, Verdana, sans-serif;
+	letter-spacing: 0.15em;	
+	background-color: #efefef;
+	}
+		
+#navigation {
+	list-style-type: none;
+	}
+
+#content {
+	}
+	
+h1 {
+	font-size: 1.5%;
+}
+
+h2 {
+	font-size: 1.33%;
+}
+
+h3 {
+	font-size:
+}
+	
+a {
+	color: #000000;
+	text-transform: uppercase;
+	text-decoration: none;
+	}
+	
+a:hover, a#current-page {
+	color: #cc3333;
+	background-color: #ffffff;
+	}
+	
+#page {
+	width: 960px;
+}
+
+
+
+<!--box-shadow, border-radius, box model, comments, a:visited, hover active link,opacity-->
