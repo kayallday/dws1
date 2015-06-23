@@ -22,59 +22,7 @@ h1 {
 	line-height: 1.5em;
 }
 
-h2 {
-	color: #66041C;
-	font-weight: normal;
-	font-size: 150%;
-	margin: 10px auto;
-	text-align: center;
-}
-
-h3 {
-	color: #520016;
-	font-weight: normal;
-	font-size: 100%;
-	margin: 10px auto;
-	text-align: center;
-}
-
-ul {
-	list-style-type: none;
-}
-
-ul li {
-	text-align: center;
-}
-/* text is still somewhat off center */
-nav {
-	background-color: #B5B1B5;
-	opacity: 0.8;
-	border: 1px solid #000000;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px; 
-}
-
-nav li {
-	display: inline;
-	margin-right: 30px;
-}
-
-a {
-	color: #66041C;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #66041C;
-	text-decoration: underline;
-}
-
-a:visited {
-	color: #000000;
-	text-decoration: underline;
-}
-
+e
 #container {
 	width: 900px;
 	border: 20px solid #000000;
