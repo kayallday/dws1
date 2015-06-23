@@ -77,7 +77,7 @@ a:visited {
 	text-decoration: underline;
 }
 
-#container {
+.column1 {
 	width: 900px;
 	border: 20px solid #000000;
 	opacity: 0.9;
@@ -92,6 +92,16 @@ a:visited {
 	width: 650px;
 	margin: 10px auto;
 }
+
+.column1 {
+	float: left;
+	width: 620px; 
+	margin: 10px;
+
+.column2 {
+	float: left;
+	width: 300px;
+	margin: 10px;
 
 #content {
 	width: 600px;

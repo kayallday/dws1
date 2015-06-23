@@ -1,0 +1,35 @@
+header {
+	display: block;
+}
+
+
+
+
+
+.wrapper {
+	width: 940px;
+	margin: 20px auto 20px auto;
+	border: 2px solid #000000;
+	background-color #ffffff;
+	}
+
+section.content, section.menu, section.shop, section.images, footer {
+	float: left;
+	width: 620px;
+	margin: 10px;
+	overflow: auto;
+}
+
+section.locations, section.contact {
+	float: left;
+	width: 300px;
+	margin: 10px;
+	overflow: auto;
+	}
+	
+nav li {
+	display: inline;
+	margin-right: 30px;
+	text-align: center;
+}
+	

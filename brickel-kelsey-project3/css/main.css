@@ -1,6 +1,25 @@
-b {
-	padding-left: 20px;
+.wrapper {
+	width: 940px;
+	margin: 20px auto 20px auto;
 	border: 2px solid #000000;
+	background-color #ffffff;
+	}
+
+.column1 {
+	float: left;
+	width: 620px;
+	margin: 10px;
+}
+
+.column2 {
+	float: left;
+	width: 300px;
+	margin: 10px;
+	}
+	
+b {
+	line-height: 1.4em;
+	padding-left: 20px;
 }
 
 p {
@@ -47,6 +66,7 @@ ul li {
 }
 /* text is still somewhat off center */
 nav {
+	width: 700px;
 	background-color: #B5B1B5;
 	opacity: 0.8;
 	border: 1px solid #000000;
@@ -58,6 +78,7 @@ nav {
 nav li {
 	display: inline;
 	margin-right: 30px;
+	text-align: center;
 }
 
 a {
@@ -75,7 +96,7 @@ a:visited {
 	text-decoration: underline;
 }
 
-#container {
+.column1 {
 	width: 900px;
 	border: 20px solid #000000;
 	opacity: 0.9;
@@ -86,7 +107,7 @@ a:visited {
 	-webkit-border-radius: 20px;
 }
 
-#page {
+.article {
 	width: 650px;
 	margin: 10px auto;
 }
@@ -94,24 +115,6 @@ a:visited {
 #content {
 	width: 600px;
 	margin: 10px auto;
-}
-
-#section {
-	width: 650px;
-	margin: 10px auto;
-}
-
-#BBmenu {
-	text-align: center;
-}
-
-#shop {
-	text-align: center;
-	font-size: 70%;
-}
-
-section {
-	text-align: center;
 }
 
 aside {
