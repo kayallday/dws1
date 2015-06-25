@@ -1,0 +1,8 @@
+/************************ Main Styles ************************/
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	font: 16px / 1.5 "Open Sans", sans-serif;
+	color: #666;
+}
