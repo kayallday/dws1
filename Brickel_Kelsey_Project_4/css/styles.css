@@ -27,6 +27,7 @@ h1 {
 
 #company {
 	float: both;
+	/* the book says it's a value? */
 	margin-right: .4%;
 	background-image: url("../images/smallanchors.png");
 	background-repeat: no-repeat;
@@ -59,6 +60,7 @@ h3 {
 	height: 70%;
 	margin: 1.9% auto 1.9% auto;
 	border: .4% solid #000000;
+	/* why is it not a value? */
 	border-radius: .4%;
 	background-color: #efefef;
 	opacity: 0.8;
@@ -137,7 +139,7 @@ a:hover {
 	text-decoration: none;
 }
 
-a: visited {
+a:visited {
 	color: #000000;
 	text-decoration: underline;
 }	
