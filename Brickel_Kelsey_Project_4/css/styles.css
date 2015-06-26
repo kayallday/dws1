@@ -19,7 +19,7 @@ h1 {
 	padding-bottom: .9%;
 	margin: .9% 9.3%;
 	text-align: center;
-	letter-spacing: -0.10em;
+	letter-spacing: .35em;
 	line-height: 2.0em;
 	text-transform: uppercase;
 }
@@ -83,8 +83,10 @@ section.menu {
 }
 
 section.shop {
+	width: 30%;
 	clear: both;
 	text-align: center;
+	margin-left: 35%;
 }
 
 article {
@@ -99,7 +101,7 @@ aside {
 
 	/* NAVIGATION */
 nav {
-	width: 59%;
+	width: 50%;
 	margin: auto auto;
 	background-color: #B5B1B5;
 	opacity: 0.8;
@@ -107,12 +109,12 @@ nav {
 	border-radius: .4%;
 	-moz-border-radius: .4%;
 	-webkit-border-radius: .4%;
+	text-align: center;
 }
 	
 nav li {
 	display: inline;
 	margin-right: 6%;
-	text-align: center;
 	font-weight: bold;
 }
 		/* END NAVIGATION */
@@ -128,7 +130,7 @@ a {
 }
 
 a:hover {
-	color: #66041C;
+	color: #ffffff;
 	text-decoration: none;
 }
 
