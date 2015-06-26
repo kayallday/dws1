@@ -9,6 +9,7 @@ b {
 }
 
 h1 {
+	float: both;
 	color: #5E0010;
 	font-family: Corsiva, helvetica, sans-serif;
     font-weight: normal;
@@ -25,6 +26,8 @@ h1 {
 }
 
 #company {
+	float: both;
+	margin-right: .4%;
 	background-image: url("../images/smallanchors.png");
 	background-repeat: no-repeat;
 }
